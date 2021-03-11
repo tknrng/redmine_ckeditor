@@ -2,6 +2,13 @@
 
 This plugin adds the text formatting for using CKEditor to Redmine.
 
+== What's new
+
+Added markdown, mentions and some extra plugins
+Version of CKEditor - 4.16
+
+Next text same as 4 other ppl ^_^
+
 Since version 1.0.0, it includes {Rich}[https://github.com/bastiaanterhorst/rich] and supports image uploads.
 
 == What is CKEditor?
